@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angelosemedo\\Desktop\\Blockchain\\Blockchain.csproj": {}
+    "c:\\Users\\angelosemedo\\Desktop\\Blockchain\\Blockchain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angelosemedo\\Desktop\\Blockchain\\Blockchain.csproj": {
+    "c:\\Users\\angelosemedo\\Desktop\\Blockchain\\Blockchain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angelosemedo\\Desktop\\Blockchain\\Blockchain.csproj",
+        "projectUniqueName": "c:\\Users\\angelosemedo\\Desktop\\Blockchain\\Blockchain.csproj",
         "projectName": "Blockchain",
-        "projectPath": "C:\\Users\\angelosemedo\\Desktop\\Blockchain\\Blockchain.csproj",
+        "projectPath": "c:\\Users\\angelosemedo\\Desktop\\Blockchain\\Blockchain.csproj",
         "packagesPath": "C:\\Users\\angelosemedo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angelosemedo\\Desktop\\Blockchain\\obj\\",
+        "outputPath": "c:\\Users\\angelosemedo\\Desktop\\Blockchain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,11 @@
             "EmbedIO": {
               "target": "Package",
               "version": "[3.5.0, )"
+            },
+            "Microsoft.Extensions.Buffers.Testing.Sources": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
